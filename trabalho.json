@@ -1,0 +1,79 @@
+{
+  "Nome": "Arthur Staskoviak Farias",
+  "idade": 16,
+  "genero": "masculino",
+  "endereço": "Rua rio araguari 1931",
+  "complemento": "casa 4",
+  "familia": {
+    "irmaos": {
+      "filho1": {
+        "nome": "Isadora Staskoviak",
+        "idade": 26,
+        "vivo": sim
+      },
+      "filho2": {
+        "nome": "Caio Staskoviak",
+        "idade": 25,
+        "vivo": sim
+      }
+    },
+    "pais": {
+      "pai": {
+        "nome": "Sandro da silva farias",
+        "idade": null,
+        "vivo": sim,
+        "irmaos": []
+      },
+      "mae": {
+        "nome": "Elke juliana Schneider Staskoviak",
+        "idade": 46,
+        "vivo": sim,
+        "irmao": [
+          {
+            "nome": "Vitor Schneider Staskoviak",
+            "idade": 50,
+            "vivo": sim
+          }
+        ],
+        "irma": [
+          {
+            "nome": "Sonia Vanessa Schneider",
+            "idade": 44,
+            "vivo": nao
+          }
+        ]
+      }
+    },
+    "avos": {
+      "avô": {
+        "nome": "Victor Staskoviak",
+        "idade": 78,
+        "vivo": sim
+      },
+      "avó": {
+        "nome": "Joanita Schneider",
+        "idade": 80,
+        "vivo": sim
+      },
+      "irmao": {
+        "nome": "juca schneider",
+        "idade": 83,
+        "vivo": sim
+      },
+      "irma": {
+        "nome": "gracilda",
+        "idade": 75,
+        "vivo": nao
+      }
+    },
+    "netos": {
+      "neto1": "Gustavo Staskoviak",
+      "neto2": "Eloisa Staskoviak",
+      "neto3": "Joao Staskoviak",
+      "neto4": "Guilherme Staskoviak",
+      "neto5": "Caio Staskoviak",
+      "neto6": "Isadora Staskoviak",
+      "neto7": "Arthur Staskoviak"
+    }
+  }
+}
